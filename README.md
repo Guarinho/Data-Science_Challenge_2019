@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/logo.svg" />
+  <img src="https://github.com/Guarinho/Python_Challenges_2019/blob/master/python-1/logo1.png" />
 </p>
 
 ---
@@ -13,10 +13,10 @@
 </h2>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JedersonLuz/Codenation_AceleraDev_DataScience">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JedersonLuz/Codenation_AceleraDev_DataScience">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JedersonLuz/Codenation_AceleraDev_DataScience">
-  <img alt="License" src="https://img.shields.io/github/license/JedersonLuz/Codenation_AceleraDev_DataScience">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Guarinho/Data-Science_Challenge_2019">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Guarinho/Data-Science_Challenge_2019">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Guarinho/Data-Science_Challenge_2019">
+  <img alt="License" src="https://img.shields.io/github/license/Guarinho/Data-Science_Challenge_2019">
 </p>
 
 <p align="center">
